@@ -12,7 +12,6 @@
   <li> 200 gramos de champiñones</li>
   <li>200 gramos de queso doble crema rallado</li>
   <li>100 gramos de pasta de tomate</li>
-
 </ul>
 
 <h2>Utencilios:</h2>
@@ -20,7 +19,9 @@
     <li>Rodillo de madera</li>
     <li>Papel de horno </li>
     <li>bol o recipiente grande para mezclar la harina</li>
-<ul>
+</ul>
+
+<h2>Pasos para preparar la pizza</h2>
 
 <ol>
     <li>PREPARACIÓN MASA</li>    
